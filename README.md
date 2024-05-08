@@ -5,4 +5,4 @@ How to run:
 2. npm install, then npm start
 
 ## Linkedin  
-[https://nishant-666.github.io/React-weather/](https://tr.linkedin.com/in/enes-polat-09671743)
+[enes polat](https://tr.linkedin.com/in/enes-polat-09671743)
